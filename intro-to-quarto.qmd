@@ -1,0 +1,42 @@
+---
+title: "Intro to Quarto"
+format: html
+---
+
+# Header 1
+
+## Header 2
+
+| x      | y      | z      |
+|--------|--------|--------|
+| 1      | 2      | 3      |
+| hannah | sarrah | zarrah |
+| des1   | des2   | des3   |
+
+##### Heaader 5
+
+**this is bold**
+
+*this is italic*
+
+-item 1
+
+-item 2
+
+-item 3
+
++sub-item 4
+
+find the workshop materials in [this link.](https://learning.nceas.ucsb.edu/2024-02-arctic/)
+
+This is a vey important fact ()
+
+
+```{r}
+x <- 4*8
+ 
+ heights_ft <- c(5.2,6.0,5.7)
+ 
+ heights_ft
+
+```
